@@ -3,6 +3,7 @@
     "description": "This is a test",
     "type": "magento2-module",
     "version": "1.0.0",
+    "minimum-stability": "alpha",
     "authors": [
         {
             "name": "Author Name",
