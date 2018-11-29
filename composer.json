@@ -4,6 +4,13 @@
     "type": "magento2-module",
     "version": "1.0.0",
     "minimum-stability": "alpha",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }       
+    ],
     "authors": [
         {
             "name": "Author Name",
