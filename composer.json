@@ -17,7 +17,6 @@
             "email": "author@email.com"
         }
     ],
-    "require": {},
     "autoload": {
         "files": [
             "registration.php"
