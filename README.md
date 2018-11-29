@@ -2,5 +2,5 @@
 
 # Installation
 ```
-composer require practice/console-utils
+composer require "practice/console-utils:dev-master"
 ```
